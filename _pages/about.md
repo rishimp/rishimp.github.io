@@ -9,8 +9,8 @@ profile:
   image: rishipic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>riship[at]drexel[dot]edu</p>
-    <p>Philadelphia, PA 19104</p>
+    #<p>riship[at]drexel[dot]edu</p>
+    #<p>Philadelphia, PA 19104</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

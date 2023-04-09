@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student at Drexel University
+subtitle:
 
 profile:
   align: left

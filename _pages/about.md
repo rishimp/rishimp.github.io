@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Ph.D. Student at Drexel University
 
 profile:
   align: left
   image: rishipic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>riship [at] drexel [dot] edu</p>
+    <p>riship[at]drexel[dot]edu</p>
     <p>Philadelphia, PA 19104</p>
 
 news: false  # includes a list of news items

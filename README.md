@@ -1,6 +1,6 @@
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[core_contributors]: https://img.shields.io/badge/core_contributors-4-orange.svg 'Number of core contributors'
+[maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
@@ -93,6 +93,9 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://bashirkazimi.github.io/" target="_blank">★</a>
 <a href="https://dohaison.github.io/" target="_blank">★</a>
 <a href="https://raphaaal.github.io/" target="_blank">★</a>
+<a href="https://varuniyer.info/" target="_blank">★</a>
+<a href="https://yukimasano.github.io/" target="_blank">★</a>
+<a href="https://hashe037.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>

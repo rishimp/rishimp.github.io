@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. student studying Computer Science at Drexel University. I am broadly interested in Theoretical Computer Science and work in the field of Algorithmic Game Theory. I am fortunate to be co-advised by Emmanouil Pountourakis.
+I'm a Ph.D. student studying Computer Science at Drexel University. I am broadly interested in Theoretical Computer Science and work in the field of Algorithmic Game Theory. I am fortunate to be advised by Emmanouil Pountourakis.
